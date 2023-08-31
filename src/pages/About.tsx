@@ -10,7 +10,7 @@ function About() {
       <h1 className="profile-text">Hi, I am Kumari Deepika</h1>
       <h2 className="profile-text">The creator of this awesome website.</h2>
       <h4 className="profile-text">
-        You are welcome to explore a captivating Pokémon platform<br />that enables you to effortlessly compare different species and <br /> curate your very own list of favorites.
+        You are welcome to explore a captivating Pokémon platform that enables you to<br/>effortlessly compare different species and curate your very own list of favorites.
       </h4>
       <div className="profile-links">
         <a href="https://github.com/KriDeepika" target='_blank' rel="noreferrer">
